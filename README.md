@@ -1,4 +1,4 @@
-# Desenvolvimento de Processos - BPM/ECM [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/viniciusvasconcelosferreira/totvs-fluig/blob/master/README.en.md)
+# Desenvolvimento de Processos - BPM/ECM [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/viniciusvasconcelosferreira/totvs-fluig/blob/master/README.en.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/viniciusvasconcelosferreira/totvs-fluig/blob/master/README.es.md) [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/viniciusvasconcelosferreira/totvs-fluig/blob/master/README.fr.md)
 
 O objetivo deste repositório é o compartilhamento do aprendizado adquirido nos cursos da TOTVS Fluig Academy para o desenvolvimento de processos através do fluig Studio para criação de soluções em BPM e ECM.
 
